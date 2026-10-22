@@ -70,3 +70,16 @@ This project uses a synthetic e-commerce dataset for educational and portfolio p
 
 ## Author
 BCA Graduate | Aspiring Data Analyst | Currently Learning Data Science
+
+## Dashboard Previews
+
+### 1. Executive Overview
+![Executive Overview](screenshots/executive-overview.png)
+
+### 2. Product and Sales Analysis
+![Product and Sales Analysis](screenshots/product-sales-analysis.png)
+
+### 3. Customer Insights
+![Customer Insights](screenshots/customer-insights.png)
+
+
