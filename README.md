@@ -74,13 +74,13 @@ BCA Graduate | Aspiring Data Analyst | Currently Learning Data Science
 ## Dashboard Previews
 
 ### 1. Executive Overview
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](screenshots/executive-overview.PNG)
 
 ### 2. Product and Sales Analysis
-![Product and Sales Analysis](screenshots/product-sales-analysis.png)
+![Product and Sales Analysis](screenshots/product-sales-analysis.PNG)
 
 ### 3. Customer Insights
-![Customer Insights](screenshots/customer-insights.png)
+![Customer Insights](screenshots/customer-insights.PNG)
 
 
 
